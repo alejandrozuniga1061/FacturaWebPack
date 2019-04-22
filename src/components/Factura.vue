@@ -4,7 +4,7 @@
       <header>
         <div class="row">
           <div class="col" style="text-align: center">
-            <img src="../assets/ferreteria.jpg" style="width: 20%;" alt="" />
+            <img src="https://alejandrozuniga1061.github.io/FacturaWebPack/dist/assets/ferreteria.jpg" style="width: 20%;" alt="" />
           </div>
           <div class="col company-details">
             <h2 class="name">

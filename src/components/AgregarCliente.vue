@@ -2,7 +2,7 @@
     <div class="container register">
         <div class="row">
         <div class="col-md-3 register-left">
-          <img src="../assets/ferreteria.jpg" style="width: 100%;" alt="" />
+          <img src="https://alejandrozuniga1061.github.io/FacturaWebPack/dist/ferreteria.jpg" style="width: 100%;" alt="" />
           <h3>Reto Factura</h3>
         </div>
         <div class="col-md-9 register-right">
